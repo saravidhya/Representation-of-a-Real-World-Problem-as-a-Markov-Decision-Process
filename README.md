@@ -257,6 +257,8 @@ print("\nDiscount Factor (gamma):")
 print(gamma)
 
 ```
+## Diagramatic representation
+<img width="1167" height="777" alt="image" src="https://github.com/user-attachments/assets/be48e8cd-348d-4ca2-a82d-0477a732273c" />
 
 ## Output
 
